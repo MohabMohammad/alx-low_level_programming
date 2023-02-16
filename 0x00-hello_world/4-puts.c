@@ -4,9 +4,9 @@
  */
 int main(void)
 {
-	char Str[] = "Programming is like building a multilingual puzzle";
+	char Str[] = "\"Programming is like building a multilingual puzzle";
 
 	puts(Str);
-
-	return (0);
+	
+	return (0); /*no errors*/
 }
