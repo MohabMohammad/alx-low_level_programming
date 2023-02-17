@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
- *main- prints lowercase characters except q & e
+ *main-prints lowercase characters except q & e
  *Return: 0 signifies no error
  */
 int main(void)
