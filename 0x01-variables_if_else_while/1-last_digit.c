@@ -3,8 +3,9 @@
 #include <stdio.h>
 
 /**
- *main-prints random number and whether last digit is > 5, is 0, or is  <6 & not 0
- *Returns: zero signifies no error
+ *main-prints random number and whether
+ *last digit is > 5, is 0, or is  <6 & not 0
+ *Return: zero signifies no error
  */
 int main(void)
 {
