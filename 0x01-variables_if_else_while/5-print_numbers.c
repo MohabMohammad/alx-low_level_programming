@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+int main(void)
 /**
  *main- prints digits from 0 to 9
  *Return: 0 signifies no error
