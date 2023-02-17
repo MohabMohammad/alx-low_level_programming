@@ -7,15 +7,18 @@ int main(void)
 {
 	int a = 0;
 
-	while (a <= 8)
+	while (a <= 9)
 	{
 		putchar('0' + a);
-		putchar(',');
-		putchar(' ');
+		if (a < 9)
+		{
+			putchar(' ');
+			putchar(',');
+		}
 		a += 1;
 	}
-	
-	putchar('0' + a);
+
+	putchar('\n');
 
 	return (0);
 }
