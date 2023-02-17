@@ -1,9 +1,9 @@
 #include <stdio.h>
-int main(void)
 /**
- *main- prints digits from 0 to 9
+ *main-prints digits from 0 to 9
  *Return: 0 signifies no error
  */
+int main(void)
 {
 	int a = 0;
 
