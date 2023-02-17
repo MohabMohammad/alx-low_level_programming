@@ -3,7 +3,7 @@
  *main- prints characters from a to z
  *Return: 0 signifies no error
  */
-int main()
+int main(void)
 {
 	char c = 'a';
 
