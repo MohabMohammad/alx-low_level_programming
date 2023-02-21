@@ -5,9 +5,11 @@
  */
 int _abs(int n)
 {
+	int abs = n;
+
 	if (n < 0)
 	{
-		int abs = n * -1;
+		 abs = n * -1;
 	}
 
 	return (abs);
