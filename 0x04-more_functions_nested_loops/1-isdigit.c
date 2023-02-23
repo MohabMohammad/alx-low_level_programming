@@ -1,6 +1,6 @@
 /**
  *_isdigit- checks whether parameter is a digit 0-9
- *Return- 1 if digit, 0 otherwise
+ *Return: 1 if digit, 0 otherwise
  *@c: parameter to be checked if digit
  */
 int _isdigit(int c)
